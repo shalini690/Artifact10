@@ -1,0 +1,12 @@
+{
+  "name": "artifact10",
+  "version": "1.0.0",
+  "description": "Node.js HTTP server (Express) exposing Hello world and Good evening endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
